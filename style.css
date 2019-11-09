@@ -1,0 +1,20 @@
+.red {
+  background-color: red;
+}
+
+.self {
+  margin-right: 20%;
+}
+
+.borde {
+  border-right: 1px solid rgb(182, 182, 182);
+  padding: 0 2% 0 2%;
+}
+
+.two {
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+.font {
+  font-size: 2vw;
+}
