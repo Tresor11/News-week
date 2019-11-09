@@ -10,7 +10,7 @@
    <a href="https://github.com/Tresor11/News-week"><strong>Explore the docs »</strong></a>
    <br />
    <br />
-   <a href="https://rawcdn.githack.com/Tresor11/News-week/4b433ad6b101233243daff59ba41b2e137dc1cab/index.html"> :wink: View Demo </a> 
+   <a href="https://rawcdn.githack.com/Tresor11/News-week/112fde3d3d4af97abae388107fc75ff3bac8c1f4/index.html"> :wink: View Demo </a> 
  </p>
 </p>
 <h2 align="center">Tools and Technologies Used<h2>
